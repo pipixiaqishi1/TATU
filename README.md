@@ -1,6 +1,6 @@
 # Overview
 
-This is the implementation of the paper: Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning
+This is the repo of the paper: Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning
 
 # Dependencies
 
